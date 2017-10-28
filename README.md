@@ -7,6 +7,6 @@ hasil yang ditampilkan bila berat anda ideal
 
 hasil yang di tampilkan bila berat anda melebihi berat ideal
 
-![alt text](kurang berat.PNG)
+![alt text](kurangberat.PNG)
 
 hasil yang ditampilkan bila berat anda kurang dari berat ideal
